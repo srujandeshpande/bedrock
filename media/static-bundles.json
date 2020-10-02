@@ -845,6 +845,7 @@
     },
     {
       "files": [
+        "js/base/sticky-promo.js",
         "js/firefox/new/desktop/download.js"
       ],
       "name": "firefox_desktop_download"
@@ -1020,6 +1021,7 @@
         "js/base/mozilla-fxa-product-button.js",
         "js/base/mozilla-fxa-product-button-init.js",
         "js/base/mozilla-lazy-load.js",
+        "js/base/sticky-promo.js",
         "js/firefox/home/master.js"
       ],
       "name": "firefox-master"
@@ -1030,6 +1032,7 @@
         "js/base/mozilla-fxa-init.js",
         "js/base/mozilla-fxa-form.js",
         "js/base/mozilla-fxa-form-init.js",
+        "js/base/sticky-promo.js",
         "js/firefox/browsers-products.js"
       ],
       "name": "firefox-browsers-products"
@@ -1295,12 +1298,6 @@
         "js/firefox/campaign/unfck.de.js"
       ],
       "name": "firefox-unfck-de"
-    },
-    {
-      "files": [
-        "js/base/sticky-promo.js"
-      ],
-      "name": "sticky-promo"
     }
   ]
 }
